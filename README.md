@@ -47,6 +47,9 @@ Skilled software engineer with more than a year experience in developing, testin
 - Intermediate: Java, Grails, Python, Django, JavaScript, Node.js, ReactJS, jQuery, TypeScript, MySQL, PostgreSQL, GraphQL, Git, Github CI/CD, AWS Services
 - Basic: Kibana, ElasticSearch, C/C++, Adobe Experience Manager, Matlab
 
+## Publications
+- Furqon H. Muttaqien, Faishal Z. Naufal, Aniati M. Arymurthy, Inna Syafarina, and Arnida L. Latifah. 2022. Impact of Community Mobility and Weather Variability on COVID-19 Case in the Provinces of Java Island. In Proceedings of the 2021 International Conference on Computer, Control, Informatics and Its Applications (IC3INA '21). Association for Computing Machinery, New York, NY, USA, 141–145. https://doi.org/10.1145/3489088.3489122
+
 ## Contact Info
 
 - Phone: +62 81221585403
