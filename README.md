@@ -10,18 +10,18 @@ Computer Science Master's graduate with more than 4 years of experience in softw
 
 ## 🎓 Education
 
+### University of Indonesia
+- Master of Computer Science (Aug 2020 - Sep 2023)
+- Focus: Machine Learning, Image Processing using Generative AI
+- GPA: 3.53
+- Essay: Astronomical Image Denoising Using AttentionGAN
+
 ### Bandung Institute of Technology
 - Bachelor of Science, Astronomy (Jul 2013 - Jul 2017)
 - Focus: Computational Astronomy
 - Essay: Asteroid Orbital Elements Calculation using Semi-definite Programming method
 - GPA: 3.03
 - Organization: Head Division of Internal Affair (Feb 2016 - Feb 2017), HIMASTRON ITB
-
-### University of Indonesia
-- Master of Computer Science (Aug 2020 - Sep 2023)
-- Focus: Machine Learning, Image Processing using Generative AI
-- GPA: 3.53
-- Essay: Astronomical Image Denoising Using AttentionGAN
 
 ## 👨‍💻 Work Experience
 
