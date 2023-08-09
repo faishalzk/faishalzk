@@ -4,7 +4,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faishalzk&show_icons=true&theme=radical)
 
-## Career Overview
+# About Me 💬
 
 Computer Science Master's graduate with more than 4 years of experience in software developing. Get used in using Java, Python, Javascript and MySQL. Passionate about generative AI and eager to excel as an IT Pro.
 
@@ -23,7 +23,7 @@ Computer Science Master's graduate with more than 4 years of experience in softw
 - GPA: 3.53
 - Essay: Astronomical Image Denoising Using AttentionGAN
 
-## Work Experience
+## 👨‍💻 Work Experience
 
 ### Full Stack Developer at KoinWorks | Dec 2021 - Present
 - Part of Innovation Lab's KoinWorks Strategy team, to bring internal disruption to KoinWorks CORE Business
@@ -44,7 +44,7 @@ Computer Science Master's graduate with more than 4 years of experience in softw
 - Collaborate with front-end developers, coding and debugging, troubleshoot and debug applications
 - Generally use Grails Framework to work with the application
 
-## Skills
+## 🛠 Skills
 
 - Intermediate: Java, Grails, Python, Django, JavaScript, Node.js, ReactJS, jQuery, TypeScript, MySQL, PostgreSQL, GraphQL, Git, Github CI/CD, AWS Services
 - Basic: Kibana, ElasticSearch, C/C++, Adobe Experience Manager, Matlab
