@@ -8,7 +8,7 @@
 
 Computer Science Master's graduate with more than 4 years of experience in software developing. Get used in using Java, Python, Javascript and MySQL. Passionate about generative AI and eager to excel as an IT Pro.
 
-<details open> 
+<details> 
   <summary><h2>🎓 Education</h2></summary>
   
   <h3>University of Indonesia</h4>
@@ -28,7 +28,7 @@ Computer Science Master's graduate with more than 4 years of experience in softw
   </ul>
 </details>
 
-<details open> 
+<details> 
   <summary><h2>👨‍💻 Work Experience</h2></summary>
   
   <h3>Full Stack Developer at KoinWorks | Dec 2021 - Present</h4>
