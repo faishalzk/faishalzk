@@ -1,5 +1,9 @@
 - 👋 Hi, I’m Faishal Zaka Naufal
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=faishalzk&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faishalzk&show_icons=true&theme=radical)
+
 ## Career Overview
 
 Computer Science Master's graduate with more than 4 years of experience in software developing. Get used in using Java, Python, Javascript and MySQL. Passionate about generative AI and eager to excel as an IT Pro.
