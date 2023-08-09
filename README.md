@@ -8,41 +8,52 @@
 
 Computer Science Master's graduate with more than 4 years of experience in software developing. Get used in using Java, Python, Javascript and MySQL. Passionate about generative AI and eager to excel as an IT Pro.
 
-## 🎓 Education
+<details open> 
+  <summary><h2>🎓 Education</h2></summary>
+  
+  <h3>University of Indonesia</h4>
+  <ul>
+    <li>Master of Computer Science (Aug 2020 - Sep 2023)</li>
+    <li>Focus: Machine Learning, Image Processing using Generative AI</li>
+    <li>GPA: 3.53</li>
+    <li>Essay: Astronomical Image Denoising Using AttentionGAN</li>
+  </ul>
+  <h3>Bandung Institute of Technology</h4>
+  <ul>
+    <li>Bachelor of Science, Astronomy (Jul 2013 - Jul 2017)</li>
+    <li>Focus: Computational Astronomy</li>
+    <li>GPA: 3.53</li>
+    <li>Essay: Asteroid Orbital Elements Calculation using Semi-definite Programming method</li>
+    <li>Organization: Head Division of Internal Affair (Feb 2016 - Feb 2017), HIMASTRON ITB</li>
+  </ul>
+</details>
 
-### University of Indonesia
-- Master of Computer Science (Aug 2020 - Sep 2023)
-- Focus: Machine Learning, Image Processing using Generative AI
-- GPA: 3.53
-- Essay: Astronomical Image Denoising Using AttentionGAN
-
-### Bandung Institute of Technology
-- Bachelor of Science, Astronomy (Jul 2013 - Jul 2017)
-- Focus: Computational Astronomy
-- Essay: Asteroid Orbital Elements Calculation using Semi-definite Programming method
-- GPA: 3.03
-- Organization: Head Division of Internal Affair (Feb 2016 - Feb 2017), HIMASTRON ITB
-
-## 👨‍💻 Work Experience
-
-### Full Stack Developer at KoinWorks | Dec 2021 - Present
-- Part of Innovation Lab's KoinWorks Strategy team, to bring internal disruption to KoinWorks CORE Business
-- Create end-to-end web products to increase new business opportunities in KoinWorks
-- Create, test and optimize web services on the back-end and front-end side, create and test REST API, generally using Node.js and Python
-- Create proof of concept based on stakeholders requirements
-- Create git repository and deploy code to several environments (eg. dev, staging, production)
-- Do data analysis and machine learning technique to process user's data
-- Implement 3rd party APIs: Hasura, Powercred
-
-### Freelance Backend Developer at SmesHub | May 2022 - Aug 2022
-- Create, test and optimize web services on the back-end side
-- Collaborate with front-end developers, coding and debugging, troubleshoot and debug applications.
-- Generally use ReactJS to work with the application
-
-### Backend Developer at Fairtech Pte, Ltd. | Nov 2018 - Dec 2021
-- Create, test and optimize web services on the back-end side
-- Collaborate with front-end developers, coding and debugging, troubleshoot and debug applications
-- Generally use Grails Framework to work with the application
+<details open> 
+  <summary><h2>👨‍💻 Work Experience</h2></summary>
+  
+  <h3>Full Stack Developer at KoinWorks | Dec 2021 - Present</h4>
+  <ul>
+    <li>Part of Innovation Lab's KoinWorks Strategy team, to bring internal disruption to KoinWorks CORE Business</li>
+    <li>Create end-to-end web products to increase new business opportunities in KoinWorks</li>
+    <li>Create, test and optimize web services on the back-end and front-end side, create and test REST API, generally using Node.js and Python</li>
+    <li>Create proof of concept based on stakeholders requirements</li>
+    <li>Create git repository and deploy code to several environments (eg. dev, staging, production)</li>
+    <li>Do data analysis and machine learning technique to process user's data</li>
+    <li>Implement 3rd party APIs: Hasura, Powercred</li>
+  </ul>
+  <h3>Freelance Backend Developer at SmesHub | May 2022 - Aug 2022</h4>
+  <ul>
+    <li>Create, test and optimize web services on the back-end side</li>
+    <li>Collaborate with front-end developers, coding and debugging, troubleshoot and debug applications</li>
+    <li>Generally use ReactJS to work with the application</li>
+  </ul>
+  <h3>Backend Developer at Fairtech Pte, Ltd. | Nov 2018 - Dec 2021</h4>
+  <ul>
+    <li>Create, test and optimize web services on the back-end side</li>
+    <li>Collaborate with front-end developers, coding and debugging, troubleshoot and debug applications</li>
+    <li>Generally use Grails Framework to work with the application</li>
+  </ul>
+</details>
 
 ## 🛠 Skills
 
