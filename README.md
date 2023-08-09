@@ -4,11 +4,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faishalzk&show_icons=true&theme=radical)
 
-# About Me 💬
+# 💬 About Me
 
 Computer Science Master's graduate with more than 4 years of experience in software developing. Get used in using Java, Python, Javascript and MySQL. Passionate about generative AI and eager to excel as an IT Pro.
 
-## Education
+## 🎓 Education
 
 ### Bandung Institute of Technology
 - Bachelor of Science, Astronomy (Jul 2013 - Jul 2017)
@@ -49,10 +49,10 @@ Computer Science Master's graduate with more than 4 years of experience in softw
 - Intermediate: Java, Grails, Python, Django, JavaScript, Node.js, ReactJS, jQuery, TypeScript, MySQL, PostgreSQL, GraphQL, Git, Github CI/CD, AWS Services
 - Basic: Kibana, ElasticSearch, C/C++, Adobe Experience Manager, Matlab
 
-## Publications
+## 🔬 Publications
 - Furqon H. Muttaqien, Faishal Z. Naufal, Aniati M. Arymurthy, Inna Syafarina, and Arnida L. Latifah. 2022. Impact of Community Mobility and Weather Variability on COVID-19 Case in the Provinces of Java Island. In Proceedings of the 2021 International Conference on Computer, Control, Informatics and Its Applications (IC3INA '21). Association for Computing Machinery, New York, NY, USA, 141–145. https://doi.org/10.1145/3489088.3489122
 
-## Contact Info
+## 📬 Contact Info
 
 - Phone: +62 81221585403
 - Email: faishalnaufal@gmail.com
