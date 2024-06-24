@@ -22,7 +22,7 @@ Computer Science Master's graduate with more than 4 years of experience in softw
   <ul>
     <li>Bachelor of Science, Astronomy (Jul 2013 - Jul 2017)</li>
     <li>Focus: Computational Astronomy</li>
-    <li>GPA: 3.53</li>
+    <li>GPA: 3.03</li>
     <li>Essay: Asteroid Orbital Elements Calculation using Semi-definite Programming method</li>
     <li>Organization: Head Division of Internal Affair (Feb 2016 - Feb 2017), HIMASTRON ITB</li>
   </ul>
